@@ -7,7 +7,7 @@
 ### Space game
 OOP solution for a graphics based space shooter game.
 
-![SpaceGame](https://github.com/MarsMatthew/programming-portfolio2022-sophmore/blob/gh-pages/images/SpaceGame.png)
+![SpaceGame](https://github.com/MarsMatthew/programming-portfolio2022-sophmore/blob/gh-pages/images/SpceGmSample.png)
 
 [Source Code](https://github.com/MarsMatthew/programming-portfolio2022-sophmore/blob/gh-pages/src/SpaceGame.zip)
 
