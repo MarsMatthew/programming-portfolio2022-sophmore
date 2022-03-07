@@ -1,13 +1,15 @@
-#Matthew Sorensen's Programming Portfolio
+# Matthew Sorensen's Programming Portfolio
 
 2022 Programming projects for Processing and Python
 
-##Processing Projects
+## Processing Projects
 
-###Space game
+### Space game
 OOP solution for a graphics based space shooter game.
-![SpaceGame]()
-[Source Code]()
 
-##Python Projects
+![SpaceGame](https://github.com/MarsMatthew/programming-portfolio2022-sophmore/blob/gh-pages/images/SpaceGame.png)
+
+[Source Code](https://github.com/MarsMatthew/programming-portfolio2022-sophmore/blob/gh-pages/src/SpaceGame.zip)
+
+## Python Projects
 
