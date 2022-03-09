@@ -16,7 +16,7 @@ OOP solution for a graphics based space shooter game.
 ### Shape Tester
 Uses classes and methods to calculate Volume and surface area of different shapes
 
-![Shape Tester](https://github.com/MarsMatthew/programming-portfolio2022-sophmore/blob/gh-pages/images/ShapeTester.png)
+![Shape Tester](https://github.com/MarsMatthew/programming-portfolio2022-sophmore/blob/gh-pages/images/ShapeTester.png?raw=true)
 
 [Source Code](https://github.com/MarsMatthew/programming-portfolio2022-sophmore/blob/gh-pages/src/ShapeTester.zip)
 
